@@ -21,8 +21,8 @@ Contacts = new Mongo.Collection('Contacts')
 ```
 
 #### I've tried
-`meteor reset`
-`rm -rf .meteor/local/`
+`meteor reset`  
+`rm -rf .meteor/local/`  
 `rm -rf node_modules/; npm install;`
 
 #### Simple reproduction
